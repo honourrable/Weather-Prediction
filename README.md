@@ -4,7 +4,7 @@ In this study, weather forecast operation was performed by using machine learnin
 
 ### Dataset
 
-Dataset which was used to train the machine learning models can be found in the following link: https://www.kaggle.com/muthuj7/weather-dataset
+Dataset which was used to train the machine learning models can be found in the following link: https://www.kaggle.com/muthuj7/weather-dataset. There was dramatic imbalance on dataset.
 
 ### The System
 
