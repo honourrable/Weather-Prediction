@@ -20,7 +20,7 @@ In the system, the following components were used to perform the the task:
 The program output and the system's success details were mentioned below.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57035819/150679800-8c6037a8-8576-43c4-9ffc-621d939dfc82.png"  width="500"/>
+  <img src="https://user-images.githubusercontent.com/57035819/150679800-8c6037a8-8576-43c4-9ffc-621d939dfc82.png"  width="600"/>
   <img src="https://user-images.githubusercontent.com/57035819/150679818-92048238-7ed2-4c21-a617-1084888add45.png"  width="500"/>
 </p>
 
